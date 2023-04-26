@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2874f359.css",
+    "main.js": "/static/js/main.7ecac2db.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/beautiful-girl-with-beautiful-makeup-youth-skin-care-concept-removebg.webp": "/static/media/beautiful-girl-with-beautiful-makeup-youth-skin-care-concept-removebg.561281836efbc76d3200.webp",
+    "static/media/bg2.jpg": "/static/media/bg2.c75c2ad0ff2b033d71db.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.597dbb425c009ef13a49.jpg",
+    "static/media/bg3.jpg": "/static/media/bg3.6007d02fc441776a317e.jpg",
+    "static/media/panelAu1.png": "/static/media/panelAu1.0c4901749634d80fd93b.png",
+    "static/media/Final.png": "/static/media/Final.13fe0fdd473b68590e53.png",
+    "static/media/panelAU2.png": "/static/media/panelAU2.e8cf9993a3b90d0f7672.png",
+    "static/media/panelU1.png": "/static/media/panelU1.151103d0c2897a620c39.png",
+    "static/media/panelU3.png": "/static/media/panelU3.75135253779c4f5d9bd3.png",
+    "static/media/panelU2.png": "/static/media/panelU2.5a2f2e4a47bdd0f81741.png",
+    "static/media/Self-Care-Tips-for-Teachers-Square.avif": "/static/media/Self-Care-Tips-for-Teachers-Square.baa154ab42eeb0df775d.avif",
+    "static/media/beauty-spa.avif": "/static/media/beauty-spa.cbd5f497e398d3865a78.avif",
+    "static/media/Logo.png": "/static/media/Logo.52c8228d0ea81790231f.png",
+    "static/media/unnamed.png": "/static/media/unnamed.e4816b1ec0f48e193c07.png",
+    "static/media/facial.png": "/static/media/facial.46d35e5468d11c1d7956.png",
+    "static/media/terapia-fisica.png": "/static/media/terapia-fisica.616ec8a16da621701e5f.png",
+    "static/media/entrenador.png": "/static/media/entrenador.4ee8870269414758c000.png",
+    "static/media/curriculum.png": "/static/media/curriculum.60c4f53d340d7c84130f.png",
+    "static/media/usuario.png": "/static/media/usuario.b3f411b923bd41afd1d3.png",
+    "index.html": "/index.html",
+    "main.2874f359.css.map": "/static/css/main.2874f359.css.map",
+    "main.7ecac2db.js.map": "/static/js/main.7ecac2db.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2874f359.css",
+    "static/js/main.7ecac2db.js"
+  ]
+}
